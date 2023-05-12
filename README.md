@@ -4,7 +4,7 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge the course and apply them in practice, using a live  application.
 
-Application under test: [SCYTE](https://www.scyte.ro/home)
+Application under test: [Application Name]()
 
 API Documentation:
 
@@ -16,7 +16,7 @@ Tools used:
 
 <h2>1.1 Test planning</h2>
 
-The Test Plan is designed to describe all details of testing for the X module for the SCYTE application.
+The Test Plan is designed to describe all details of testing for the X module for the <em>Application name</em>.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
@@ -58,6 +58,6 @@ The following elements are needed to be ready before the test execution phase be
 - The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
 - Test execution chart was generated, the final report shows... <em>-> describe the final report</em>
 
-<em> -> enter here test execution report/chart
+<em> -> enter here test execution report/chart</em>
   
 <h1> SQL section</h1>
